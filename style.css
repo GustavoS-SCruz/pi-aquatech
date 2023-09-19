@@ -1,0 +1,26 @@
+body
+    {
+    margin: 0;
+    }
+.header
+    {
+    background-color: black;
+    display: block;
+    }
+.container
+    {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10%;
+    padding: 20px;
+    border: 2px solid purple;
+    }
+h1
+    {
+    color: #32b9cd;
+    }
+.navBar
+    {
+    display: flex;
+    color: rgb(253, 236, 0);
+    }
